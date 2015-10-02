@@ -1,0 +1,33 @@
+{
+  "name": "workshop-gulp",
+  "version": "1.0.0",
+  "description": "![gulp](https://dl.dropboxusercontent.com/u/15053734/gulp-workshop/gulp.png \"gulp\")",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-copy": "0.0.2",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-imagemin": "^2.3.0",
+    "gulp-jshint": "^1.11.2",
+    "gulp-ruby-sass": "^2.0.4",
+    "gulp-uglify": "^1.4.1",
+    "gulp-watch": "^4.3.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mirkamalatakova/workshop-grunt"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mirkamalatakova/workshop-grunt/issues"
+  },
+  "homepage": "https://github.com/mirkamalatakova/workshop-grunt"
+}
