@@ -1,6 +1,6 @@
 (function(window, document, undefined) {
   'use strict';
-  
+
   var isHappy = true;
   var message = 'Grumpy Cat is ';
 
@@ -8,9 +8,9 @@
     message += 'happy!';
   }
   else message += 'sad!';
-  
+
   $(document).ready(function() {
-    $('.message').text(mesage);
+    $('.message').text(message);
   });
 
 })(window, document);
